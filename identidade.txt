@@ -2,3 +2,4 @@ nome : jose
 cpf : 000.000.000-00
 idade : 19
 altura : 175cm
+cor de cabelo : castanho
